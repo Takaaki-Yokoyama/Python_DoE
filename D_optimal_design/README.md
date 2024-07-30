@@ -1,1 +1,3 @@
 D最適計画で実験計画を作成するプログラム。
+
+setting_of_generation.csvに実験因子と範囲を入力しておく。合計1にしたい因子は、group with a total of desired_sum_of_componentsに1を入力する。
