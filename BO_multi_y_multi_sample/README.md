@@ -1,0 +1,7 @@
+ベイズ最適化で次の実験候補を選定するプログラム。
+
+training_data_multi_y.csvに取得済のデータを入力。
+
+x_for_prediction_multi_y.csvに候補水準を入力。D_optimal_designのremaining_samples。
+
+settings_in_bayesian_optimization_multi_y.csvにyの目標を入力。
